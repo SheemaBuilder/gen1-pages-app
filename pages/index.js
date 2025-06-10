@@ -30,6 +30,7 @@ export default function Home() {
           <button className={styles.submitButton} type="submit">
             Submit
           </button>
+          <h2 className={styles.heading}>Neon space branch</h2>
           <Image
             className={styles.logo}
             src="/next.svg"
