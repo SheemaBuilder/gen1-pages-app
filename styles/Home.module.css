@@ -150,6 +150,10 @@ a.secondary {
     text-decoration: underline;
     text-underline-offset: 4px;
   }
+
+  .submitButton:hover {
+    background: #0056b3;
+  }
 }
 
 @media (max-width: 600px) {
