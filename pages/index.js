@@ -27,7 +27,7 @@ export default function Home() {
       >
         <main className={styles.main}>
           <h1 className={styles.heading}>Test 1</h1>
-          <button className={styles.primary} type="submit">
+          <button className={styles.submitButton} type="submit">
             Submit
           </button>
           <Image
